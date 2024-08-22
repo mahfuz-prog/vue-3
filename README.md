@@ -6,6 +6,11 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm init vue@latest
 ```
+## install dependency
+
+```sh
+npm install
+```
 
 ## Run
 
